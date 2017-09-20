@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-#define PICTURE_WIDTH 2048
-#define PICTURE_HEIGHT 2048
+#define PICTURE_WIDTH 4096
+#define PICTURE_HEIGHT 4096
 #define PICTIRE_Y_DEPTH 256
 
 int main(int argc, char **argv, char **envp)
