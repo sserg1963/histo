@@ -19,7 +19,7 @@ int main(int argc, char **argv, char **envp)
         }
     }
 for (int j=0; j < PICTIRE_Y_DEPTH; ++j) printf("%d", histogram_value[j]);
-printf("\r");
+printf("\r\r");
 return 0;
 }
 
